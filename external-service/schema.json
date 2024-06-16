@@ -1,0 +1,21 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "properties": {
+    "product_order_id_buyer": {
+      "type": "integer",
+      "description": "A unique reference ID for the buyer's order"
+    },
+    "timestamp": {
+      "type": "string",
+      "description": "A timestamp describing when the event occurred, in ISO 8601 format",
+      "examples": ["2021-09-13T15:58:32.437Z"]
+    },
+    "product_provider_buyer": {
+      "type": "string",
+      "description": "The seller providing the product",
+      "examples": ["P&O Ferries"]
+    }
+  },
+  "required": ["product_order_id_buyer", "timestamp", "product_provider_buyer"]
+}

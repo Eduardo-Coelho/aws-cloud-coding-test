@@ -1,0 +1,27 @@
+{
+  "compilerOptions": {
+    "target": "ES2022",
+    "module": "CommonJS",
+    "moduleResolution": "node",
+    "strict": true,
+    "importHelpers": true,
+    "experimentalDecorators": true,
+    "skipLibCheck": true,
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "forceConsistentCasingInFileNames": true,
+    "sourceMap": true,
+    "baseUrl": ".",
+    "resolveJsonModule": true,
+    "outDir": "./dist",
+    "types": ["vitest/globals", "node"]
+  },
+  "include": [
+    "cdk",
+    "src",
+    "models",
+    "test",
+    "tsup.config.ts",
+    "vitest.config.ts"
+  ]
+}

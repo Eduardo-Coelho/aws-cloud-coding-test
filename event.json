@@ -1,0 +1,804 @@
+{
+  "Records": [
+    {
+      "kinesis": {
+        "data": "eyJpZCI6ImE0Mzg4MTMxLTE0OTItMTFlYy1hMGIyLWM3OGZmYmQ2OTM0NyIsInBhcnRpdGlvbktleSI6ImM3NzI0YjA2LTgxM2QtNDEwYS1hZGJjLTdkMTllYmZmMDRiMiIsInRpbWVzdGFtcCI6MTYzMTUzODA1OTQ1OSwidHlwZSI6ImJvb2tpbmdfcmVxdWVzdGVkIiwiYm9va2luZ19yZXF1ZXN0ZWQiOnsidGltZXN0YW1wIjoxNjMxNTM4MDU5NDU5LCJvcmRlcklkIjoxMDAxNiwicHJvZHVjdF9wcm92aWRlciI6IkJyaXR0YW55IEZlcnJpZXMifX0=",
+        "partitionKey": "c7724b06-813d-410a-adbc-7d19ebff04b2",
+        "approximateArrivalTimestamp": 1631538059459,
+        "kinesisSchemaVersion": "1.0",
+        "sequenceNumber": "c7724b06-813d-410a-adbc-7d19ebff04b2"
+      },
+      "eventSource": "aws:kinesis",
+      "eventID": "shardId-000000000000:49545115243490985018280067714973144582180062593244200961",
+      "invokeIdentityArn": "arn:aws:iam::EXAMPLE",
+      "eventVersion": "1.0",
+      "eventName": "aws:kinesis:record",
+      "eventSourceARN": "arn:aws:kinesis:EXAMPLE",
+      "awsRegion": "us-east-1"
+    },
+    {
+      "kinesis": {
+        "data": "eyJpZCI6ImE0MzhhODQzLTE0OTItMTFlYy1hMGIyLWM3OGZmYmQ2OTM0NyIsInBhcnRpdGlvbktleSI6IjllNWZiZmFiLTQwMjAtNGI5Zi04NDQzLTIzZjQ0MGVjM2ExNiIsInRpbWVzdGFtcCI6MTYzMTUzODA1OTQ2MCwidHlwZSI6ImJvb2tpbmdfcmVxdWVzdGVkIiwiYm9va2luZ19yZXF1ZXN0ZWQiOnsidGltZXN0YW1wIjoxNjMxNTM4MDU5NDYwLCJvcmRlcklkIjoxMDAyMywicHJvZHVjdF9wcm92aWRlciI6IkJyaXR0YW55IEZlcnJpZXMifX0=",
+        "partitionKey": "9e5fbfab-4020-4b9f-8443-23f440ec3a16",
+        "approximateArrivalTimestamp": 1631538059460,
+        "kinesisSchemaVersion": "1.0",
+        "sequenceNumber": "9e5fbfab-4020-4b9f-8443-23f440ec3a16"
+      },
+      "eventSource": "aws:kinesis",
+      "eventID": "shardId-000000000000:49545115243490985018280067714973144582180062593244200961",
+      "invokeIdentityArn": "arn:aws:iam::EXAMPLE",
+      "eventVersion": "1.0",
+      "eventName": "aws:kinesis:record",
+      "eventSourceARN": "arn:aws:kinesis:EXAMPLE",
+      "awsRegion": "us-east-1"
+    },
+    {
+      "kinesis": {
+        "data": "eyJpZCI6ImE0Mzc5NmQ0LTE0OTItMTFlYy1hMGIyLWM3OGZmYmQ2OTM0NyIsInBhcnRpdGlvbktleSI6IjE5ZTlkMmFjLTJlNTgtNGE4Yi05MjA5LWM0NTU4ZTkxZWFhMyIsInRpbWVzdGFtcCI6MTYzMTUzODA1OTQ1MywidHlwZSI6ImJvb2tpbmdfY29tcGxldGVkIiwiYm9va2luZ19jb21wbGV0ZWQiOnsidGltZXN0YW1wIjoxNjMxNTM4MDU5NDUzLCJwcm9kdWN0X3Byb3ZpZGVyIjoiUCZPIEZlcnJpZXMiLCJvcmRlcklkIjoxMjM0NjF9fQ==",
+        "partitionKey": "19e9d2ac-2e58-4a8b-9209-c4558e91eaa3",
+        "approximateArrivalTimestamp": 1631538059453,
+        "kinesisSchemaVersion": "1.0",
+        "sequenceNumber": "19e9d2ac-2e58-4a8b-9209-c4558e91eaa3"
+      },
+      "eventSource": "aws:kinesis",
+      "eventID": "shardId-000000000000:49545115243490985018280067714973144582180062593244200961",
+      "invokeIdentityArn": "arn:aws:iam::EXAMPLE",
+      "eventVersion": "1.0",
+      "eventName": "aws:kinesis:record",
+      "eventSourceARN": "arn:aws:kinesis:EXAMPLE",
+      "awsRegion": "us-east-1"
+    },
+    {
+      "kinesis": {
+        "data": "eyJpZCI6ImE0MzgwYzAxLTE0OTItMTFlYy1hMGIyLWM3OGZmYmQ2OTM0NyIsInBhcnRpdGlvbktleSI6IjY0MWY4MTFiLTNkNGMtNDgwOS05OWUyLWQyY2MzODM4ODIyMyIsInRpbWVzdGFtcCI6MTYzMTUzODA1OTQ1NiwidHlwZSI6ImJvb2tpbmdfY29tcGxldGVkIiwiYm9va2luZ19jb21wbGV0ZWQiOnsidGltZXN0YW1wIjoxNjMxNTM4MDU5NDU2LCJwcm9kdWN0X3Byb3ZpZGVyIjoiQmFsZWFyaWEiLCJvcmRlcklkIjoxMjM0Nzd9fQ==",
+        "partitionKey": "641f811b-3d4c-4809-99e2-d2cc38388223",
+        "approximateArrivalTimestamp": 1631538059456,
+        "kinesisSchemaVersion": "1.0",
+        "sequenceNumber": "641f811b-3d4c-4809-99e2-d2cc38388223"
+      },
+      "eventSource": "aws:kinesis",
+      "eventID": "shardId-000000000000:49545115243490985018280067714973144582180062593244200961",
+      "invokeIdentityArn": "arn:aws:iam::EXAMPLE",
+      "eventVersion": "1.0",
+      "eventName": "aws:kinesis:record",
+      "eventSourceARN": "arn:aws:kinesis:EXAMPLE",
+      "awsRegion": "us-east-1"
+    },
+    {
+      "kinesis": {
+        "data": "eyJpZCI6ImE0MzdiZGUxLTE0OTItMTFlYy1hMGIyLWM3OGZmYmQ2OTM0NyIsInBhcnRpdGlvbktleSI6IjlmYTUzZjZlLTFkZTgtNGJhYy05MmM0LTYwNTk1NTk3MzE0YSIsInRpbWVzdGFtcCI6MTYzMTUzODA1OTQ1NCwidHlwZSI6ImJvb2tpbmdfY29tcGxldGVkIiwiYm9va2luZ19jb21wbGV0ZWQiOnsidGltZXN0YW1wIjoxNjMxNTM4MDU5NDU0LCJwcm9kdWN0X3Byb3ZpZGVyIjoiUCZPIEZlcnJpZXMiLCJvcmRlcklkIjoxMjM0NjZ9fQ==",
+        "partitionKey": "9fa53f6e-1de8-4bac-92c4-60595597314a",
+        "approximateArrivalTimestamp": 1631538059454,
+        "kinesisSchemaVersion": "1.0",
+        "sequenceNumber": "9fa53f6e-1de8-4bac-92c4-60595597314a"
+      },
+      "eventSource": "aws:kinesis",
+      "eventID": "shardId-000000000000:49545115243490985018280067714973144582180062593244200961",
+      "invokeIdentityArn": "arn:aws:iam::EXAMPLE",
+      "eventVersion": "1.0",
+      "eventName": "aws:kinesis:record",
+      "eventSourceARN": "arn:aws:kinesis:EXAMPLE",
+      "awsRegion": "us-east-1"
+    },
+    {
+      "kinesis": {
+        "data": "eyJpZCI6ImE0MzdlNGY1LTE0OTItMTFlYy1hMGIyLWM3OGZmYmQ2OTM0NyIsInBhcnRpdGlvbktleSI6ImM2ZWU1ZWYyLWY2YTktNDk1MC1iYzY5LTg2MmY5OWI4ZWJmYyIsInRpbWVzdGFtcCI6MTYzMTUzODA1OTQ1NSwidHlwZSI6ImJvb2tpbmdfY29tcGxldGVkIiwiYm9va2luZ19jb21wbGV0ZWQiOnsidGltZXN0YW1wIjoxNjMxNTM4MDU5NDU1LCJwcm9kdWN0X3Byb3ZpZGVyIjoiREZEUyIsIm9yZGVySWQiOjEyMzQ3NX19",
+        "partitionKey": "c6ee5ef2-f6a9-4950-bc69-862f99b8ebfc",
+        "approximateArrivalTimestamp": 1631538059455,
+        "kinesisSchemaVersion": "1.0",
+        "sequenceNumber": "c6ee5ef2-f6a9-4950-bc69-862f99b8ebfc"
+      },
+      "eventSource": "aws:kinesis",
+      "eventID": "shardId-000000000000:49545115243490985018280067714973144582180062593244200961",
+      "invokeIdentityArn": "arn:aws:iam::EXAMPLE",
+      "eventVersion": "1.0",
+      "eventName": "aws:kinesis:record",
+      "eventSourceARN": "arn:aws:kinesis:EXAMPLE",
+      "awsRegion": "us-east-1"
+    },
+    {
+      "kinesis": {
+        "data": "eyJpZCI6ImE0Mzc5NmQ1LTE0OTItMTFlYy1hMGIyLWM3OGZmYmQ2OTM0NyIsInBhcnRpdGlvbktleSI6ImRkNGUwN2I1LWRiZjgtNDUyNC1hN2RhLTg4YTQ1ZTY1YzVkMiIsInRpbWVzdGFtcCI6MTYzMTUzODA1OTQ1MywidHlwZSI6ImJvb2tpbmdfY29tcGxldGVkIiwiYm9va2luZ19jb21wbGV0ZWQiOnsidGltZXN0YW1wIjoxNjMxNTM4MDU5NDUzLCJwcm9kdWN0X3Byb3ZpZGVyIjoiSXJpc2ggRmVycmllcyIsIm9yZGVySWQiOjEyMzQ2Mn19",
+        "partitionKey": "dd4e07b5-dbf8-4524-a7da-88a45e65c5d2",
+        "approximateArrivalTimestamp": 1631538059453,
+        "kinesisSchemaVersion": "1.0",
+        "sequenceNumber": "dd4e07b5-dbf8-4524-a7da-88a45e65c5d2"
+      },
+      "eventSource": "aws:kinesis",
+      "eventID": "shardId-000000000000:49545115243490985018280067714973144582180062593244200961",
+      "invokeIdentityArn": "arn:aws:iam::EXAMPLE",
+      "eventVersion": "1.0",
+      "eventName": "aws:kinesis:record",
+      "eventSourceARN": "arn:aws:kinesis:EXAMPLE",
+      "awsRegion": "us-east-1"
+    },
+    {
+      "kinesis": {
+        "data": "eyJpZCI6ImE0MzgzMzExLTE0OTItMTFlYy1hMGIyLWM3OGZmYmQ2OTM0NyIsInBhcnRpdGlvbktleSI6Ijk2ZjVjMWNiLWIwMTYtNDNlYi1iZGYzLTBhNDA3MGU2YTAxNiIsInRpbWVzdGFtcCI6MTYzMTUzODA1OTQ1NywidHlwZSI6ImJvb2tpbmdfcmVxdWVzdGVkIiwiYm9va2luZ19yZXF1ZXN0ZWQiOnsidGltZXN0YW1wIjoxNjMxNTM4MDU5NDU3LCJvcmRlcklkIjoxMDAwNCwicHJvZHVjdF9wcm92aWRlciI6IklyaXNoIEZlcnJpZXMifX0=",
+        "partitionKey": "96f5c1cb-b016-43eb-bdf3-0a4070e6a016",
+        "approximateArrivalTimestamp": 1631538059457,
+        "kinesisSchemaVersion": "1.0",
+        "sequenceNumber": "96f5c1cb-b016-43eb-bdf3-0a4070e6a016"
+      },
+      "eventSource": "aws:kinesis",
+      "eventID": "shardId-000000000000:49545115243490985018280067714973144582180062593244200961",
+      "invokeIdentityArn": "arn:aws:iam::EXAMPLE",
+      "eventVersion": "1.0",
+      "eventName": "aws:kinesis:record",
+      "eventSourceARN": "arn:aws:kinesis:EXAMPLE",
+      "awsRegion": "us-east-1"
+    },
+    {
+      "kinesis": {
+        "data": "eyJpZCI6ImE0Mzc5NmQxLTE0OTItMTFlYy1hMGIyLWM3OGZmYmQ2OTM0NyIsInBhcnRpdGlvbktleSI6IjgwYmZjMmQ5LTg2NzktNGFlYy1hMmJkLTdkZTc0N2ZhNGUwYyIsInRpbWVzdGFtcCI6MTYzMTUzODA1OTQ1MywidHlwZSI6ImJvb2tpbmdfY29tcGxldGVkIiwiYm9va2luZ19jb21wbGV0ZWQiOnsidGltZXN0YW1wIjoxNjMxNTM4MDU5NDUzLCJwcm9kdWN0X3Byb3ZpZGVyIjoiQmFsZWFyaWEiLCJvcmRlcklkIjoxMjM0NTh9fQ==",
+        "partitionKey": "80bfc2d9-8679-4aec-a2bd-7de747fa4e0c",
+        "approximateArrivalTimestamp": 1631538059453,
+        "kinesisSchemaVersion": "1.0",
+        "sequenceNumber": "80bfc2d9-8679-4aec-a2bd-7de747fa4e0c"
+      },
+      "eventSource": "aws:kinesis",
+      "eventID": "shardId-000000000000:49545115243490985018280067714973144582180062593244200961",
+      "invokeIdentityArn": "arn:aws:iam::EXAMPLE",
+      "eventVersion": "1.0",
+      "eventName": "aws:kinesis:record",
+      "eventSourceARN": "arn:aws:kinesis:EXAMPLE",
+      "awsRegion": "us-east-1"
+    },
+    {
+      "kinesis": {
+        "data": "eyJpZCI6ImE0MzhhODQwLTE0OTItMTFlYy1hMGIyLWM3OGZmYmQ2OTM0NyIsInBhcnRpdGlvbktleSI6IjIzY2RjYTQ3LTU2N2ItNGMxMC1hNDFhLTE4ZDUzYjhkM2MzYyIsInRpbWVzdGFtcCI6MTYzMTUzODA1OTQ2MCwidHlwZSI6ImJvb2tpbmdfcmVxdWVzdGVkIiwiYm9va2luZ19yZXF1ZXN0ZWQiOnsidGltZXN0YW1wIjoxNjMxNTM4MDU5NDU5LCJvcmRlcklkIjoxMDAyMCwicHJvZHVjdF9wcm92aWRlciI6IklyaXNoIEZlcnJpZXMifX0=",
+        "partitionKey": "23cdca47-567b-4c10-a41a-18d53b8d3c3c",
+        "approximateArrivalTimestamp": 1631538059460,
+        "kinesisSchemaVersion": "1.0",
+        "sequenceNumber": "23cdca47-567b-4c10-a41a-18d53b8d3c3c"
+      },
+      "eventSource": "aws:kinesis",
+      "eventID": "shardId-000000000000:49545115243490985018280067714973144582180062593244200961",
+      "invokeIdentityArn": "arn:aws:iam::EXAMPLE",
+      "eventVersion": "1.0",
+      "eventName": "aws:kinesis:record",
+      "eventSourceARN": "arn:aws:kinesis:EXAMPLE",
+      "awsRegion": "us-east-1"
+    },
+    {
+      "kinesis": {
+        "data": "eyJpZCI6ImE0Mzc2ZmMwLTE0OTItMTFlYy1hMGIyLWM3OGZmYmQ2OTM0NyIsInBhcnRpdGlvbktleSI6Ijg1MWRlMmZlLThlM2UtNDkwOC1hYWY2LWE5OGExODRiM2E2ZSIsInRpbWVzdGFtcCI6MTYzMTUzODA1OTQ1MiwidHlwZSI6ImJvb2tpbmdfY29tcGxldGVkIiwiYm9va2luZ19jb21wbGV0ZWQiOnsidGltZXN0YW1wIjoxNjMxNTM4MDU5NDUwLCJwcm9kdWN0X3Byb3ZpZGVyIjoiUCZPIEZlcnJpZXMiLCJvcmRlcklkIjoxMjM0NTZ9fQ==",
+        "partitionKey": "851de2fe-8e3e-4908-aaf6-a98a184b3a6e",
+        "approximateArrivalTimestamp": 1631538059452,
+        "kinesisSchemaVersion": "1.0",
+        "sequenceNumber": "851de2fe-8e3e-4908-aaf6-a98a184b3a6e"
+      },
+      "eventSource": "aws:kinesis",
+      "eventID": "shardId-000000000000:49545115243490985018280067714973144582180062593244200961",
+      "invokeIdentityArn": "arn:aws:iam::EXAMPLE",
+      "eventVersion": "1.0",
+      "eventName": "aws:kinesis:record",
+      "eventSourceARN": "arn:aws:kinesis:EXAMPLE",
+      "awsRegion": "us-east-1"
+    },
+    {
+      "kinesis": {
+        "data": "eyJpZCI6ImE0MzgzMzEzLTE0OTItMTFlYy1hMGIyLWM3OGZmYmQ2OTM0NyIsInBhcnRpdGlvbktleSI6ImZhMmNjMWRlLWVhMTctNGUyYy1iNDI0LTBiYmNjZTZlOGQzYSIsInRpbWVzdGFtcCI6MTYzMTUzODA1OTQ1NywidHlwZSI6ImJvb2tpbmdfcmVxdWVzdGVkIiwiYm9va2luZ19yZXF1ZXN0ZWQiOnsidGltZXN0YW1wIjoxNjMxNTM4MDU5NDU3LCJvcmRlcklkIjoxMDAwNiwicHJvZHVjdF9wcm92aWRlciI6IkJhbGVhcmlhIn19",
+        "partitionKey": "fa2cc1de-ea17-4e2c-b424-0bbcce6e8d3a",
+        "approximateArrivalTimestamp": 1631538059457,
+        "kinesisSchemaVersion": "1.0",
+        "sequenceNumber": "fa2cc1de-ea17-4e2c-b424-0bbcce6e8d3a"
+      },
+      "eventSource": "aws:kinesis",
+      "eventID": "shardId-000000000000:49545115243490985018280067714973144582180062593244200961",
+      "invokeIdentityArn": "arn:aws:iam::EXAMPLE",
+      "eventVersion": "1.0",
+      "eventName": "aws:kinesis:record",
+      "eventSourceARN": "arn:aws:kinesis:EXAMPLE",
+      "awsRegion": "us-east-1"
+    },
+    {
+      "kinesis": {
+        "data": "eyJpZCI6ImE0Mzg1YTI0LTE0OTItMTFlYy1hMGIyLWM3OGZmYmQ2OTM0NyIsInBhcnRpdGlvbktleSI6IjQ2YjZhMmVmLWM0YjAtNDYxZS1hMzQ3LTNmYjg2ZTZlM2NhMyIsInRpbWVzdGFtcCI6MTYzMTUzODA1OTQ1OCwidHlwZSI6ImJvb2tpbmdfcmVxdWVzdGVkIiwiYm9va2luZ19yZXF1ZXN0ZWQiOnsidGltZXN0YW1wIjoxNjMxNTM4MDU5NDU4LCJvcmRlcklkIjoxMDAxNCwicHJvZHVjdF9wcm92aWRlciI6IklyaXNoIEZlcnJpZXMifX0=",
+        "partitionKey": "46b6a2ef-c4b0-461e-a347-3fb86e6e3ca3",
+        "approximateArrivalTimestamp": 1631538059458,
+        "kinesisSchemaVersion": "1.0",
+        "sequenceNumber": "46b6a2ef-c4b0-461e-a347-3fb86e6e3ca3"
+      },
+      "eventSource": "aws:kinesis",
+      "eventID": "shardId-000000000000:49545115243490985018280067714973144582180062593244200961",
+      "invokeIdentityArn": "arn:aws:iam::EXAMPLE",
+      "eventVersion": "1.0",
+      "eventName": "aws:kinesis:record",
+      "eventSourceARN": "arn:aws:kinesis:EXAMPLE",
+      "awsRegion": "us-east-1"
+    },
+    {
+      "kinesis": {
+        "data": "eyJpZCI6ImE0Mzg1YTIyLTE0OTItMTFlYy1hMGIyLWM3OGZmYmQ2OTM0NyIsInBhcnRpdGlvbktleSI6ImQ0OGRlODVjLTJlZGYtNDYwNC05N2Y0LWVhYWE4MDI4YTg2MSIsInRpbWVzdGFtcCI6MTYzMTUzODA1OTQ1OCwidHlwZSI6ImJvb2tpbmdfcmVxdWVzdGVkIiwiYm9va2luZ19yZXF1ZXN0ZWQiOnsidGltZXN0YW1wIjoxNjMxNTM4MDU5NDU4LCJvcmRlcklkIjoxMDAxMiwicHJvZHVjdF9wcm92aWRlciI6IlAmTyBGZXJyaWVzIn19",
+        "partitionKey": "d48de85c-2edf-4604-97f4-eaaa8028a861",
+        "approximateArrivalTimestamp": 1631538059458,
+        "kinesisSchemaVersion": "1.0",
+        "sequenceNumber": "d48de85c-2edf-4604-97f4-eaaa8028a861"
+      },
+      "eventSource": "aws:kinesis",
+      "eventID": "shardId-000000000000:49545115243490985018280067714973144582180062593244200961",
+      "invokeIdentityArn": "arn:aws:iam::EXAMPLE",
+      "eventVersion": "1.0",
+      "eventName": "aws:kinesis:record",
+      "eventSourceARN": "arn:aws:kinesis:EXAMPLE",
+      "awsRegion": "us-east-1"
+    },
+    {
+      "kinesis": {
+        "data": "eyJpZCI6ImE0MzdiZGUwLTE0OTItMTFlYy1hMGIyLWM3OGZmYmQ2OTM0NyIsInBhcnRpdGlvbktleSI6ImVjYTVhNmZhLTc4MDgtNGJlYy1iNDM4LTJmZjU5ZmUwNTkzMSIsInRpbWVzdGFtcCI6MTYzMTUzODA1OTQ1NCwidHlwZSI6ImJvb2tpbmdfY29tcGxldGVkIiwiYm9va2luZ19jb21wbGV0ZWQiOnsidGltZXN0YW1wIjoxNjMxNTM4MDU5NDUzLCJwcm9kdWN0X3Byb3ZpZGVyIjoiUCZPIEZlcnJpZXMiLCJvcmRlcklkIjoxMjM0NjV9fQ==",
+        "partitionKey": "eca5a6fa-7808-4bec-b438-2ff59fe05931",
+        "approximateArrivalTimestamp": 1631538059454,
+        "kinesisSchemaVersion": "1.0",
+        "sequenceNumber": "eca5a6fa-7808-4bec-b438-2ff59fe05931"
+      },
+      "eventSource": "aws:kinesis",
+      "eventID": "shardId-000000000000:49545115243490985018280067714973144582180062593244200961",
+      "invokeIdentityArn": "arn:aws:iam::EXAMPLE",
+      "eventVersion": "1.0",
+      "eventName": "aws:kinesis:record",
+      "eventSourceARN": "arn:aws:kinesis:EXAMPLE",
+      "awsRegion": "us-east-1"
+    },
+    {
+      "kinesis": {
+        "data": "eyJpZCI6ImE0MzgwYzA0LTE0OTItMTFlYy1hMGIyLWM3OGZmYmQ2OTM0NyIsInBhcnRpdGlvbktleSI6ImQzOWUwOGEyLWViNWItNDFlNS04Y2VmLTZkZTg1YmE3NjM4NiIsInRpbWVzdGFtcCI6MTYzMTUzODA1OTQ1NiwidHlwZSI6ImJvb2tpbmdfY29tcGxldGVkIiwiYm9va2luZ19jb21wbGV0ZWQiOnsidGltZXN0YW1wIjoxNjMxNTM4MDU5NDU2LCJwcm9kdWN0X3Byb3ZpZGVyIjoiUCZPIEZlcnJpZXMiLCJvcmRlcklkIjoxMjM0ODB9fQ==",
+        "partitionKey": "d39e08a2-eb5b-41e5-8cef-6de85ba76386",
+        "approximateArrivalTimestamp": 1631538059456,
+        "kinesisSchemaVersion": "1.0",
+        "sequenceNumber": "d39e08a2-eb5b-41e5-8cef-6de85ba76386"
+      },
+      "eventSource": "aws:kinesis",
+      "eventID": "shardId-000000000000:49545115243490985018280067714973144582180062593244200961",
+      "invokeIdentityArn": "arn:aws:iam::EXAMPLE",
+      "eventVersion": "1.0",
+      "eventName": "aws:kinesis:record",
+      "eventSourceARN": "arn:aws:kinesis:EXAMPLE",
+      "awsRegion": "us-east-1"
+    },
+    {
+      "kinesis": {
+        "data": "eyJpZCI6ImE0MzgwYzA1LTE0OTItMTFlYy1hMGIyLWM3OGZmYmQ2OTM0NyIsInBhcnRpdGlvbktleSI6IjU5YWYzZWE4LTMyMjEtNGM5Ny04MTc2LTA5NzY0NDVhZjM0NSIsInRpbWVzdGFtcCI6MTYzMTUzODA1OTQ1NiwidHlwZSI6ImJvb2tpbmdfcmVxdWVzdGVkIiwiYm9va2luZ19yZXF1ZXN0ZWQiOnsidGltZXN0YW1wIjoxNjMxNTM4MDU5NDU2LCJvcmRlcklkIjoxMDAwMCwicHJvZHVjdF9wcm92aWRlciI6IkJhbGVhcmlhIn19",
+        "partitionKey": "59af3ea8-3221-4c97-8176-0976445af345",
+        "approximateArrivalTimestamp": 1631538059456,
+        "kinesisSchemaVersion": "1.0",
+        "sequenceNumber": "59af3ea8-3221-4c97-8176-0976445af345"
+      },
+      "eventSource": "aws:kinesis",
+      "eventID": "shardId-000000000000:49545115243490985018280067714973144582180062593244200961",
+      "invokeIdentityArn": "arn:aws:iam::EXAMPLE",
+      "eventVersion": "1.0",
+      "eventName": "aws:kinesis:record",
+      "eventSourceARN": "arn:aws:kinesis:EXAMPLE",
+      "awsRegion": "us-east-1"
+    },
+    {
+      "kinesis": {
+        "data": "eyJpZCI6ImE0Mzg1YTIwLTE0OTItMTFlYy1hMGIyLWM3OGZmYmQ2OTM0NyIsInBhcnRpdGlvbktleSI6ImJjYmIyMjYzLWNjYzAtNGRjMi1iMWM4LWY5MTczZmQ0MjVlYyIsInRpbWVzdGFtcCI6MTYzMTUzODA1OTQ1OCwidHlwZSI6ImJvb2tpbmdfcmVxdWVzdGVkIiwiYm9va2luZ19yZXF1ZXN0ZWQiOnsidGltZXN0YW1wIjoxNjMxNTM4MDU5NDU3LCJvcmRlcklkIjoxMDAxMCwicHJvZHVjdF9wcm92aWRlciI6IlN0ZW5hIExpbmUifX0=",
+        "partitionKey": "bcbb2263-ccc0-4dc2-b1c8-f9173fd425ec",
+        "approximateArrivalTimestamp": 1631538059458,
+        "kinesisSchemaVersion": "1.0",
+        "sequenceNumber": "bcbb2263-ccc0-4dc2-b1c8-f9173fd425ec"
+      },
+      "eventSource": "aws:kinesis",
+      "eventID": "shardId-000000000000:49545115243490985018280067714973144582180062593244200961",
+      "invokeIdentityArn": "arn:aws:iam::EXAMPLE",
+      "eventVersion": "1.0",
+      "eventName": "aws:kinesis:record",
+      "eventSourceARN": "arn:aws:kinesis:EXAMPLE",
+      "awsRegion": "us-east-1"
+    },
+    {
+      "kinesis": {
+        "data": "eyJpZCI6ImE0MzhhODQ0LTE0OTItMTFlYy1hMGIyLWM3OGZmYmQ2OTM0NyIsInBhcnRpdGlvbktleSI6IjQ5ZmZlNjk4LTQ1NDgtNGIwNS1hNDBiLWQxZWFhNmVmZjI2YSIsInRpbWVzdGFtcCI6MTYzMTUzODA1OTQ2MCwidHlwZSI6ImJvb2tpbmdfcmVxdWVzdGVkIiwiYm9va2luZ19yZXF1ZXN0ZWQiOnsidGltZXN0YW1wIjoxNjMxNTM4MDU5NDYwLCJvcmRlcklkIjoxMDAyNCwicHJvZHVjdF9wcm92aWRlciI6IkJhbGVhcmlhIn19",
+        "partitionKey": "49ffe698-4548-4b05-a40b-d1eaa6eff26a",
+        "approximateArrivalTimestamp": 1631538059460,
+        "kinesisSchemaVersion": "1.0",
+        "sequenceNumber": "49ffe698-4548-4b05-a40b-d1eaa6eff26a"
+      },
+      "eventSource": "aws:kinesis",
+      "eventID": "shardId-000000000000:49545115243490985018280067714973144582180062593244200961",
+      "invokeIdentityArn": "arn:aws:iam::EXAMPLE",
+      "eventVersion": "1.0",
+      "eventName": "aws:kinesis:record",
+      "eventSourceARN": "arn:aws:kinesis:EXAMPLE",
+      "awsRegion": "us-east-1"
+    },
+    {
+      "kinesis": {
+        "data": "eyJpZCI6ImE0Mzc5NmQzLTE0OTItMTFlYy1hMGIyLWM3OGZmYmQ2OTM0NyIsInBhcnRpdGlvbktleSI6IjhjYjZmOWQ5LWVmNjUtNDNjYS04NDk0LTgwYWFkNTk1M2Y1MSIsInRpbWVzdGFtcCI6MTYzMTUzODA1OTQ1MywidHlwZSI6ImJvb2tpbmdfY29tcGxldGVkIiwiYm9va2luZ19jb21wbGV0ZWQiOnsidGltZXN0YW1wIjoxNjMxNTM4MDU5NDUzLCJwcm9kdWN0X3Byb3ZpZGVyIjoiREZEUyIsIm9yZGVySWQiOjEyMzQ2MH19",
+        "partitionKey": "8cb6f9d9-ef65-43ca-8494-80aad5953f51",
+        "approximateArrivalTimestamp": 1631538059453,
+        "kinesisSchemaVersion": "1.0",
+        "sequenceNumber": "8cb6f9d9-ef65-43ca-8494-80aad5953f51"
+      },
+      "eventSource": "aws:kinesis",
+      "eventID": "shardId-000000000000:49545115243490985018280067714973144582180062593244200961",
+      "invokeIdentityArn": "arn:aws:iam::EXAMPLE",
+      "eventVersion": "1.0",
+      "eventName": "aws:kinesis:record",
+      "eventSourceARN": "arn:aws:kinesis:EXAMPLE",
+      "awsRegion": "us-east-1"
+    },
+    {
+      "kinesis": {
+        "data": "eyJpZCI6ImE0Mzg4MTM0LTE0OTItMTFlYy1hMGIyLWM3OGZmYmQ2OTM0NyIsInBhcnRpdGlvbktleSI6ImVkMDhjYzczLThlMTYtNGRhMS05ZDVkLTA5ZDFmNDY5Y2RhYiIsInRpbWVzdGFtcCI6MTYzMTUzODA1OTQ1OSwidHlwZSI6ImJvb2tpbmdfcmVxdWVzdGVkIiwiYm9va2luZ19yZXF1ZXN0ZWQiOnsidGltZXN0YW1wIjoxNjMxNTM4MDU5NDU5LCJvcmRlcklkIjoxMDAxOSwicHJvZHVjdF9wcm92aWRlciI6IkRGRFMifX0=",
+        "partitionKey": "ed08cc73-8e16-4da1-9d5d-09d1f469cdab",
+        "approximateArrivalTimestamp": 1631538059459,
+        "kinesisSchemaVersion": "1.0",
+        "sequenceNumber": "ed08cc73-8e16-4da1-9d5d-09d1f469cdab"
+      },
+      "eventSource": "aws:kinesis",
+      "eventID": "shardId-000000000000:49545115243490985018280067714973144582180062593244200961",
+      "invokeIdentityArn": "arn:aws:iam::EXAMPLE",
+      "eventVersion": "1.0",
+      "eventName": "aws:kinesis:record",
+      "eventSourceARN": "arn:aws:kinesis:EXAMPLE",
+      "awsRegion": "us-east-1"
+    },
+    {
+      "kinesis": {
+        "data": "eyJpZCI6ImE0Mzc5NmQ2LTE0OTItMTFlYy1hMGIyLWM3OGZmYmQ2OTM0NyIsInBhcnRpdGlvbktleSI6IjQ1NDk2NzA0LThlMWQtNDg0Ni04OWVjLTU3NzgxNjQ5MzU3ZSIsInRpbWVzdGFtcCI6MTYzMTUzODA1OTQ1MywidHlwZSI6ImJvb2tpbmdfY29tcGxldGVkIiwiYm9va2luZ19jb21wbGV0ZWQiOnsidGltZXN0YW1wIjoxNjMxNTM4MDU5NDUzLCJwcm9kdWN0X3Byb3ZpZGVyIjoiREZEUyIsIm9yZGVySWQiOjEyMzQ2M319",
+        "partitionKey": "45496704-8e1d-4846-89ec-57781649357e",
+        "approximateArrivalTimestamp": 1631538059453,
+        "kinesisSchemaVersion": "1.0",
+        "sequenceNumber": "45496704-8e1d-4846-89ec-57781649357e"
+      },
+      "eventSource": "aws:kinesis",
+      "eventID": "shardId-000000000000:49545115243490985018280067714973144582180062593244200961",
+      "invokeIdentityArn": "arn:aws:iam::EXAMPLE",
+      "eventVersion": "1.0",
+      "eventName": "aws:kinesis:record",
+      "eventSourceARN": "arn:aws:kinesis:EXAMPLE",
+      "awsRegion": "us-east-1"
+    },
+    {
+      "kinesis": {
+        "data": "eyJpZCI6ImE0MzdiZGUzLTE0OTItMTFlYy1hMGIyLWM3OGZmYmQ2OTM0NyIsInBhcnRpdGlvbktleSI6ImQ5ZDI0NmUxLTYxNjUtNDZiZC1iMDA1LTRhZWRkMmFjNDhkMiIsInRpbWVzdGFtcCI6MTYzMTUzODA1OTQ1NCwidHlwZSI6ImJvb2tpbmdfY29tcGxldGVkIiwiYm9va2luZ19jb21wbGV0ZWQiOnsidGltZXN0YW1wIjoxNjMxNTM4MDU5NDU0LCJwcm9kdWN0X3Byb3ZpZGVyIjoiREZEUyIsIm9yZGVySWQiOjEyMzQ2OH19",
+        "partitionKey": "d9d246e1-6165-46bd-b005-4aedd2ac48d2",
+        "approximateArrivalTimestamp": 1631538059454,
+        "kinesisSchemaVersion": "1.0",
+        "sequenceNumber": "d9d246e1-6165-46bd-b005-4aedd2ac48d2"
+      },
+      "eventSource": "aws:kinesis",
+      "eventID": "shardId-000000000000:49545115243490985018280067714973144582180062593244200961",
+      "invokeIdentityArn": "arn:aws:iam::EXAMPLE",
+      "eventVersion": "1.0",
+      "eventName": "aws:kinesis:record",
+      "eventSourceARN": "arn:aws:kinesis:EXAMPLE",
+      "awsRegion": "us-east-1"
+    },
+    {
+      "kinesis": {
+        "data": "eyJpZCI6ImE0Mzg4MTMzLTE0OTItMTFlYy1hMGIyLWM3OGZmYmQ2OTM0NyIsInBhcnRpdGlvbktleSI6ImRhNWQyNjk1LTg4Y2YtNDI1Ni04YmYwLTQ4MzY2NzUxMTE4NCIsInRpbWVzdGFtcCI6MTYzMTUzODA1OTQ1OSwidHlwZSI6ImJvb2tpbmdfcmVxdWVzdGVkIiwiYm9va2luZ19yZXF1ZXN0ZWQiOnsidGltZXN0YW1wIjoxNjMxNTM4MDU5NDU5LCJvcmRlcklkIjoxMDAxOCwicHJvZHVjdF9wcm92aWRlciI6IkJyaXR0YW55IEZlcnJpZXMifX0=",
+        "partitionKey": "da5d2695-88cf-4256-8bf0-483667511184",
+        "approximateArrivalTimestamp": 1631538059459,
+        "kinesisSchemaVersion": "1.0",
+        "sequenceNumber": "da5d2695-88cf-4256-8bf0-483667511184"
+      },
+      "eventSource": "aws:kinesis",
+      "eventID": "shardId-000000000000:49545115243490985018280067714973144582180062593244200961",
+      "invokeIdentityArn": "arn:aws:iam::EXAMPLE",
+      "eventVersion": "1.0",
+      "eventName": "aws:kinesis:record",
+      "eventSourceARN": "arn:aws:kinesis:EXAMPLE",
+      "awsRegion": "us-east-1"
+    },
+    {
+      "kinesis": {
+        "data": "eyJpZCI6ImE0MzhhODQxLTE0OTItMTFlYy1hMGIyLWM3OGZmYmQ2OTM0NyIsInBhcnRpdGlvbktleSI6Ijg1NTgxOTQ2LTk3MDItNGZmYS1hMTZmLTg0YzA2Yzk5NmZlOCIsInRpbWVzdGFtcCI6MTYzMTUzODA1OTQ2MCwidHlwZSI6ImJvb2tpbmdfcmVxdWVzdGVkIiwiYm9va2luZ19yZXF1ZXN0ZWQiOnsidGltZXN0YW1wIjoxNjMxNTM4MDU5NDYwLCJvcmRlcklkIjoxMDAyMSwicHJvZHVjdF9wcm92aWRlciI6IkRGRFMifX0=",
+        "partitionKey": "85581946-9702-4ffa-a16f-84c06c996fe8",
+        "approximateArrivalTimestamp": 1631538059460,
+        "kinesisSchemaVersion": "1.0",
+        "sequenceNumber": "85581946-9702-4ffa-a16f-84c06c996fe8"
+      },
+      "eventSource": "aws:kinesis",
+      "eventID": "shardId-000000000000:49545115243490985018280067714973144582180062593244200961",
+      "invokeIdentityArn": "arn:aws:iam::EXAMPLE",
+      "eventVersion": "1.0",
+      "eventName": "aws:kinesis:record",
+      "eventSourceARN": "arn:aws:kinesis:EXAMPLE",
+      "awsRegion": "us-east-1"
+    },
+    {
+      "kinesis": {
+        "data": "eyJpZCI6ImE0Mzg4MTMwLTE0OTItMTFlYy1hMGIyLWM3OGZmYmQ2OTM0NyIsInBhcnRpdGlvbktleSI6IjEwMGIzNDU0LTJjM2ItNGMwNi04OWZhLTVkNDNmYTBiZDIyYiIsInRpbWVzdGFtcCI6MTYzMTUzODA1OTQ1OSwidHlwZSI6ImJvb2tpbmdfcmVxdWVzdGVkIiwiYm9va2luZ19yZXF1ZXN0ZWQiOnsidGltZXN0YW1wIjoxNjMxNTM4MDU5NDU4LCJvcmRlcklkIjoxMDAxNSwicHJvZHVjdF9wcm92aWRlciI6IkJhbGVhcmlhIn19",
+        "partitionKey": "100b3454-2c3b-4c06-89fa-5d43fa0bd22b",
+        "approximateArrivalTimestamp": 1631538059459,
+        "kinesisSchemaVersion": "1.0",
+        "sequenceNumber": "100b3454-2c3b-4c06-89fa-5d43fa0bd22b"
+      },
+      "eventSource": "aws:kinesis",
+      "eventID": "shardId-000000000000:49545115243490985018280067714973144582180062593244200961",
+      "invokeIdentityArn": "arn:aws:iam::EXAMPLE",
+      "eventVersion": "1.0",
+      "eventName": "aws:kinesis:record",
+      "eventSourceARN": "arn:aws:kinesis:EXAMPLE",
+      "awsRegion": "us-east-1"
+    },
+    {
+      "kinesis": {
+        "data": "eyJpZCI6ImE0MzdlNGYxLTE0OTItMTFlYy1hMGIyLWM3OGZmYmQ2OTM0NyIsInBhcnRpdGlvbktleSI6IjQzOWZiOThkLTM2NzQtNDgzNi05MTRlLWRlZmEyYzU5ZjYxNCIsInRpbWVzdGFtcCI6MTYzMTUzODA1OTQ1NSwidHlwZSI6ImJvb2tpbmdfY29tcGxldGVkIiwiYm9va2luZ19jb21wbGV0ZWQiOnsidGltZXN0YW1wIjoxNjMxNTM4MDU5NDU1LCJwcm9kdWN0X3Byb3ZpZGVyIjoiREZEUyIsIm9yZGVySWQiOjEyMzQ3MX19",
+        "partitionKey": "439fb98d-3674-4836-914e-defa2c59f614",
+        "approximateArrivalTimestamp": 1631538059455,
+        "kinesisSchemaVersion": "1.0",
+        "sequenceNumber": "439fb98d-3674-4836-914e-defa2c59f614"
+      },
+      "eventSource": "aws:kinesis",
+      "eventID": "shardId-000000000000:49545115243490985018280067714973144582180062593244200961",
+      "invokeIdentityArn": "arn:aws:iam::EXAMPLE",
+      "eventVersion": "1.0",
+      "eventName": "aws:kinesis:record",
+      "eventSourceARN": "arn:aws:kinesis:EXAMPLE",
+      "awsRegion": "us-east-1"
+    },
+    {
+      "kinesis": {
+        "data": "eyJpZCI6ImE0MzhhODQyLTE0OTItMTFlYy1hMGIyLWM3OGZmYmQ2OTM0NyIsInBhcnRpdGlvbktleSI6IjQyZmNlODZkLTIyMjItNDExNi05OTkwLWFhNGIyZGE4NWQ2ZSIsInRpbWVzdGFtcCI6MTYzMTUzODA1OTQ2MCwidHlwZSI6ImJvb2tpbmdfcmVxdWVzdGVkIiwiYm9va2luZ19yZXF1ZXN0ZWQiOnsidGltZXN0YW1wIjoxNjMxNTM4MDU5NDYwLCJvcmRlcklkIjoxMDAyMiwicHJvZHVjdF9wcm92aWRlciI6IklyaXNoIEZlcnJpZXMifX0=",
+        "partitionKey": "42fce86d-2222-4116-9990-aa4b2da85d6e",
+        "approximateArrivalTimestamp": 1631538059460,
+        "kinesisSchemaVersion": "1.0",
+        "sequenceNumber": "42fce86d-2222-4116-9990-aa4b2da85d6e"
+      },
+      "eventSource": "aws:kinesis",
+      "eventID": "shardId-000000000000:49545115243490985018280067714973144582180062593244200961",
+      "invokeIdentityArn": "arn:aws:iam::EXAMPLE",
+      "eventVersion": "1.0",
+      "eventName": "aws:kinesis:record",
+      "eventSourceARN": "arn:aws:kinesis:EXAMPLE",
+      "awsRegion": "us-east-1"
+    },
+    {
+      "kinesis": {
+        "data": "eyJpZCI6ImE0MzdiZGUyLTE0OTItMTFlYy1hMGIyLWM3OGZmYmQ2OTM0NyIsInBhcnRpdGlvbktleSI6ImU1ODk5ZTY3LTk0MjQtNGNiYi04YWVkLTE5ZDExNGE2YjE4ZiIsInRpbWVzdGFtcCI6MTYzMTUzODA1OTQ1NCwidHlwZSI6ImJvb2tpbmdfY29tcGxldGVkIiwiYm9va2luZ19jb21wbGV0ZWQiOnsidGltZXN0YW1wIjoxNjMxNTM4MDU5NDU0LCJwcm9kdWN0X3Byb3ZpZGVyIjoiSXJpc2ggRmVycmllcyIsIm9yZGVySWQiOjEyMzQ2N319",
+        "partitionKey": "e5899e67-9424-4cbb-8aed-19d114a6b18f",
+        "approximateArrivalTimestamp": 1631538059454,
+        "kinesisSchemaVersion": "1.0",
+        "sequenceNumber": "e5899e67-9424-4cbb-8aed-19d114a6b18f"
+      },
+      "eventSource": "aws:kinesis",
+      "eventID": "shardId-000000000000:49545115243490985018280067714973144582180062593244200961",
+      "invokeIdentityArn": "arn:aws:iam::EXAMPLE",
+      "eventVersion": "1.0",
+      "eventName": "aws:kinesis:record",
+      "eventSourceARN": "arn:aws:kinesis:EXAMPLE",
+      "awsRegion": "us-east-1"
+    },
+    {
+      "kinesis": {
+        "data": "eyJpZCI6ImE0Mzg1YTIzLTE0OTItMTFlYy1hMGIyLWM3OGZmYmQ2OTM0NyIsInBhcnRpdGlvbktleSI6IjViMGFlMDYwLWJmZWYtNDk0MC05YTIxLTQ3MmVlYzEzZjgzMCIsInRpbWVzdGFtcCI6MTYzMTUzODA1OTQ1OCwidHlwZSI6ImJvb2tpbmdfcmVxdWVzdGVkIiwiYm9va2luZ19yZXF1ZXN0ZWQiOnsidGltZXN0YW1wIjoxNjMxNTM4MDU5NDU4LCJvcmRlcklkIjoxMDAxMywicHJvZHVjdF9wcm92aWRlciI6IkJyaXR0YW55IEZlcnJpZXMifX0=",
+        "partitionKey": "5b0ae060-bfef-4940-9a21-472eec13f830",
+        "approximateArrivalTimestamp": 1631538059458,
+        "kinesisSchemaVersion": "1.0",
+        "sequenceNumber": "5b0ae060-bfef-4940-9a21-472eec13f830"
+      },
+      "eventSource": "aws:kinesis",
+      "eventID": "shardId-000000000000:49545115243490985018280067714973144582180062593244200961",
+      "invokeIdentityArn": "arn:aws:iam::EXAMPLE",
+      "eventVersion": "1.0",
+      "eventName": "aws:kinesis:record",
+      "eventSourceARN": "arn:aws:kinesis:EXAMPLE",
+      "awsRegion": "us-east-1"
+    },
+    {
+      "kinesis": {
+        "data": "eyJpZCI6ImE0MzgzMzE1LTE0OTItMTFlYy1hMGIyLWM3OGZmYmQ2OTM0NyIsInBhcnRpdGlvbktleSI6ImMzNjAyM2FlLWUzMjUtNDhmOS1iNDhiLTkzMTg2ZTQ4M2NlYSIsInRpbWVzdGFtcCI6MTYzMTUzODA1OTQ1NywidHlwZSI6ImJvb2tpbmdfcmVxdWVzdGVkIiwiYm9va2luZ19yZXF1ZXN0ZWQiOnsidGltZXN0YW1wIjoxNjMxNTM4MDU5NDU3LCJvcmRlcklkIjoxMDAwOCwicHJvZHVjdF9wcm92aWRlciI6IlAmTyBGZXJyaWVzIn19",
+        "partitionKey": "c36023ae-e325-48f9-b48b-93186e483cea",
+        "approximateArrivalTimestamp": 1631538059457,
+        "kinesisSchemaVersion": "1.0",
+        "sequenceNumber": "c36023ae-e325-48f9-b48b-93186e483cea"
+      },
+      "eventSource": "aws:kinesis",
+      "eventID": "shardId-000000000000:49545115243490985018280067714973144582180062593244200961",
+      "invokeIdentityArn": "arn:aws:iam::EXAMPLE",
+      "eventVersion": "1.0",
+      "eventName": "aws:kinesis:record",
+      "eventSourceARN": "arn:aws:kinesis:EXAMPLE",
+      "awsRegion": "us-east-1"
+    },
+    {
+      "kinesis": {
+        "data": "eyJpZCI6ImE0MzdlNGYzLTE0OTItMTFlYy1hMGIyLWM3OGZmYmQ2OTM0NyIsInBhcnRpdGlvbktleSI6IjliMTI3Mjc0LTQ1OTctNDhlYS04NGIzLTVlOWVmZmI0NGQ3MyIsInRpbWVzdGFtcCI6MTYzMTUzODA1OTQ1NSwidHlwZSI6ImJvb2tpbmdfY29tcGxldGVkIiwiYm9va2luZ19jb21wbGV0ZWQiOnsidGltZXN0YW1wIjoxNjMxNTM4MDU5NDU1LCJwcm9kdWN0X3Byb3ZpZGVyIjoiSXJpc2ggRmVycmllcyIsIm9yZGVySWQiOjEyMzQ3M319",
+        "partitionKey": "9b127274-4597-48ea-84b3-5e9effb44d73",
+        "approximateArrivalTimestamp": 1631538059455,
+        "kinesisSchemaVersion": "1.0",
+        "sequenceNumber": "9b127274-4597-48ea-84b3-5e9effb44d73"
+      },
+      "eventSource": "aws:kinesis",
+      "eventID": "shardId-000000000000:49545115243490985018280067714973144582180062593244200961",
+      "invokeIdentityArn": "arn:aws:iam::EXAMPLE",
+      "eventVersion": "1.0",
+      "eventName": "aws:kinesis:record",
+      "eventSourceARN": "arn:aws:kinesis:EXAMPLE",
+      "awsRegion": "us-east-1"
+    },
+    {
+      "kinesis": {
+        "data": "eyJpZCI6ImE0MzgwYzAwLTE0OTItMTFlYy1hMGIyLWM3OGZmYmQ2OTM0NyIsInBhcnRpdGlvbktleSI6IjVmM2VhOTMzLTkyMDQtNDRhYS1hYzUzLTg1MDVmMDZiNjdlZiIsInRpbWVzdGFtcCI6MTYzMTUzODA1OTQ1NiwidHlwZSI6ImJvb2tpbmdfY29tcGxldGVkIiwiYm9va2luZ19jb21wbGV0ZWQiOnsidGltZXN0YW1wIjoxNjMxNTM4MDU5NDU1LCJwcm9kdWN0X3Byb3ZpZGVyIjoiUCZPIEZlcnJpZXMiLCJvcmRlcklkIjoxMjM0NzZ9fQ==",
+        "partitionKey": "5f3ea933-9204-44aa-ac53-8505f06b67ef",
+        "approximateArrivalTimestamp": 1631538059456,
+        "kinesisSchemaVersion": "1.0",
+        "sequenceNumber": "5f3ea933-9204-44aa-ac53-8505f06b67ef"
+      },
+      "eventSource": "aws:kinesis",
+      "eventID": "shardId-000000000000:49545115243490985018280067714973144582180062593244200961",
+      "invokeIdentityArn": "arn:aws:iam::EXAMPLE",
+      "eventVersion": "1.0",
+      "eventName": "aws:kinesis:record",
+      "eventSourceARN": "arn:aws:kinesis:EXAMPLE",
+      "awsRegion": "us-east-1"
+    },
+    {
+      "kinesis": {
+        "data": "eyJpZCI6ImE0MzdiZGU0LTE0OTItMTFlYy1hMGIyLWM3OGZmYmQ2OTM0NyIsInBhcnRpdGlvbktleSI6ImE2ZmYwY2Q0LTNlNDUtNGRkNi05ZDBiLTQyMjg0OGQ4MDAxMiIsInRpbWVzdGFtcCI6MTYzMTUzODA1OTQ1NCwidHlwZSI6ImJvb2tpbmdfY29tcGxldGVkIiwiYm9va2luZ19jb21wbGV0ZWQiOnsidGltZXN0YW1wIjoxNjMxNTM4MDU5NDU0LCJwcm9kdWN0X3Byb3ZpZGVyIjoiU3RlbmEgTGluZSIsIm9yZGVySWQiOjEyMzQ2OX19",
+        "partitionKey": "a6ff0cd4-3e45-4dd6-9d0b-422848d80012",
+        "approximateArrivalTimestamp": 1631538059454,
+        "kinesisSchemaVersion": "1.0",
+        "sequenceNumber": "a6ff0cd4-3e45-4dd6-9d0b-422848d80012"
+      },
+      "eventSource": "aws:kinesis",
+      "eventID": "shardId-000000000000:49545115243490985018280067714973144582180062593244200961",
+      "invokeIdentityArn": "arn:aws:iam::EXAMPLE",
+      "eventVersion": "1.0",
+      "eventName": "aws:kinesis:record",
+      "eventSourceARN": "arn:aws:kinesis:EXAMPLE",
+      "awsRegion": "us-east-1"
+    },
+    {
+      "kinesis": {
+        "data": "eyJpZCI6ImE0MzdlNGYyLTE0OTItMTFlYy1hMGIyLWM3OGZmYmQ2OTM0NyIsInBhcnRpdGlvbktleSI6ImZkNjY0ZjIyLTNmNGQtNDExMi1hZGQ4LTYwOWFkODQzMDMwZSIsInRpbWVzdGFtcCI6MTYzMTUzODA1OTQ1NSwidHlwZSI6ImJvb2tpbmdfY29tcGxldGVkIiwiYm9va2luZ19jb21wbGV0ZWQiOnsidGltZXN0YW1wIjoxNjMxNTM4MDU5NDU1LCJwcm9kdWN0X3Byb3ZpZGVyIjoiUCZPIEZlcnJpZXMiLCJvcmRlcklkIjoxMjM0NzJ9fQ==",
+        "partitionKey": "fd664f22-3f4d-4112-add8-609ad843030e",
+        "approximateArrivalTimestamp": 1631538059455,
+        "kinesisSchemaVersion": "1.0",
+        "sequenceNumber": "fd664f22-3f4d-4112-add8-609ad843030e"
+      },
+      "eventSource": "aws:kinesis",
+      "eventID": "shardId-000000000000:49545115243490985018280067714973144582180062593244200961",
+      "invokeIdentityArn": "arn:aws:iam::EXAMPLE",
+      "eventVersion": "1.0",
+      "eventName": "aws:kinesis:record",
+      "eventSourceARN": "arn:aws:kinesis:EXAMPLE",
+      "awsRegion": "us-east-1"
+    },
+    {
+      "kinesis": {
+        "data": "eyJpZCI6ImE0MzgzMzE0LTE0OTItMTFlYy1hMGIyLWM3OGZmYmQ2OTM0NyIsInBhcnRpdGlvbktleSI6IjEwYmVkYmQwLTZlYmQtNDg1Yi1hZGU1LTcyMTU0Y2EzMmRiYSIsInRpbWVzdGFtcCI6MTYzMTUzODA1OTQ1NywidHlwZSI6ImJvb2tpbmdfcmVxdWVzdGVkIiwiYm9va2luZ19yZXF1ZXN0ZWQiOnsidGltZXN0YW1wIjoxNjMxNTM4MDU5NDU3LCJvcmRlcklkIjoxMDAwNywicHJvZHVjdF9wcm92aWRlciI6IlAmTyBGZXJyaWVzIn19",
+        "partitionKey": "10bedbd0-6ebd-485b-ade5-72154ca32dba",
+        "approximateArrivalTimestamp": 1631538059457,
+        "kinesisSchemaVersion": "1.0",
+        "sequenceNumber": "10bedbd0-6ebd-485b-ade5-72154ca32dba"
+      },
+      "eventSource": "aws:kinesis",
+      "eventID": "shardId-000000000000:49545115243490985018280067714973144582180062593244200961",
+      "invokeIdentityArn": "arn:aws:iam::EXAMPLE",
+      "eventVersion": "1.0",
+      "eventName": "aws:kinesis:record",
+      "eventSourceARN": "arn:aws:kinesis:EXAMPLE",
+      "awsRegion": "us-east-1"
+    },
+    {
+      "kinesis": {
+        "data": "eyJpZCI6ImE0Mzc5NmQyLTE0OTItMTFlYy1hMGIyLWM3OGZmYmQ2OTM0NyIsInBhcnRpdGlvbktleSI6IjgzOTU1YWQ1LWQ1MDYtNDNkZC1hYjFmLTM5OTdjZmRiZmJiZSIsInRpbWVzdGFtcCI6MTYzMTUzODA1OTQ1MywidHlwZSI6ImJvb2tpbmdfY29tcGxldGVkIiwiYm9va2luZ19jb21wbGV0ZWQiOnsidGltZXN0YW1wIjoxNjMxNTM4MDU5NDUzLCJwcm9kdWN0X3Byb3ZpZGVyIjoiU3RlbmEgTGluZSIsIm9yZGVySWQiOjEyMzQ1OX19",
+        "partitionKey": "83955ad5-d506-43dd-ab1f-3997cfdbfbbe",
+        "approximateArrivalTimestamp": 1631538059453,
+        "kinesisSchemaVersion": "1.0",
+        "sequenceNumber": "83955ad5-d506-43dd-ab1f-3997cfdbfbbe"
+      },
+      "eventSource": "aws:kinesis",
+      "eventID": "shardId-000000000000:49545115243490985018280067714973144582180062593244200961",
+      "invokeIdentityArn": "arn:aws:iam::EXAMPLE",
+      "eventVersion": "1.0",
+      "eventName": "aws:kinesis:record",
+      "eventSourceARN": "arn:aws:kinesis:EXAMPLE",
+      "awsRegion": "us-east-1"
+    },
+    {
+      "kinesis": {
+        "data": "eyJpZCI6ImE0MzgwYzA3LTE0OTItMTFlYy1hMGIyLWM3OGZmYmQ2OTM0NyIsInBhcnRpdGlvbktleSI6IjExYThhNzViLWZkMDQtNGM2YS1hNzAyLTg0YmRmYTRiNTdjMiIsInRpbWVzdGFtcCI6MTYzMTUzODA1OTQ1NiwidHlwZSI6ImJvb2tpbmdfcmVxdWVzdGVkIiwiYm9va2luZ19yZXF1ZXN0ZWQiOnsidGltZXN0YW1wIjoxNjMxNTM4MDU5NDU2LCJvcmRlcklkIjoxMDAwMiwicHJvZHVjdF9wcm92aWRlciI6IlN0ZW5hIExpbmUifX0=",
+        "partitionKey": "11a8a75b-fd04-4c6a-a702-84bdfa4b57c2",
+        "approximateArrivalTimestamp": 1631538059456,
+        "kinesisSchemaVersion": "1.0",
+        "sequenceNumber": "11a8a75b-fd04-4c6a-a702-84bdfa4b57c2"
+      },
+      "eventSource": "aws:kinesis",
+      "eventID": "shardId-000000000000:49545115243490985018280067714973144582180062593244200961",
+      "invokeIdentityArn": "arn:aws:iam::EXAMPLE",
+      "eventVersion": "1.0",
+      "eventName": "aws:kinesis:record",
+      "eventSourceARN": "arn:aws:kinesis:EXAMPLE",
+      "awsRegion": "us-east-1"
+    },
+    {
+      "kinesis": {
+        "data": "eyJpZCI6ImE0MzgzMzE2LTE0OTItMTFlYy1hMGIyLWM3OGZmYmQ2OTM0NyIsInBhcnRpdGlvbktleSI6IjdmYTJhOWYwLWJhZmUtNDYzYi04YTEwLThmZjUxMzQ5ODY2ZCIsInRpbWVzdGFtcCI6MTYzMTUzODA1OTQ1NywidHlwZSI6ImJvb2tpbmdfcmVxdWVzdGVkIiwiYm9va2luZ19yZXF1ZXN0ZWQiOnsidGltZXN0YW1wIjoxNjMxNTM4MDU5NDU3LCJvcmRlcklkIjoxMDAwOSwicHJvZHVjdF9wcm92aWRlciI6IklyaXNoIEZlcnJpZXMifX0=",
+        "partitionKey": "7fa2a9f0-bafe-463b-8a10-8ff51349866d",
+        "approximateArrivalTimestamp": 1631538059457,
+        "kinesisSchemaVersion": "1.0",
+        "sequenceNumber": "7fa2a9f0-bafe-463b-8a10-8ff51349866d"
+      },
+      "eventSource": "aws:kinesis",
+      "eventID": "shardId-000000000000:49545115243490985018280067714973144582180062593244200961",
+      "invokeIdentityArn": "arn:aws:iam::EXAMPLE",
+      "eventVersion": "1.0",
+      "eventName": "aws:kinesis:record",
+      "eventSourceARN": "arn:aws:kinesis:EXAMPLE",
+      "awsRegion": "us-east-1"
+    },
+    {
+      "kinesis": {
+        "data": "eyJpZCI6ImE0MzgwYzA2LTE0OTItMTFlYy1hMGIyLWM3OGZmYmQ2OTM0NyIsInBhcnRpdGlvbktleSI6IjZmMGQxODNhLWE2YTgtNDlmMy1iMjQ0LTAxZDdjN2VkZjk0ZiIsInRpbWVzdGFtcCI6MTYzMTUzODA1OTQ1NiwidHlwZSI6ImJvb2tpbmdfcmVxdWVzdGVkIiwiYm9va2luZ19yZXF1ZXN0ZWQiOnsidGltZXN0YW1wIjoxNjMxNTM4MDU5NDU2LCJvcmRlcklkIjoxMDAwMSwicHJvZHVjdF9wcm92aWRlciI6IkRGRFMifX0=",
+        "partitionKey": "6f0d183a-a6a8-49f3-b244-01d7c7edf94f",
+        "approximateArrivalTimestamp": 1631538059456,
+        "kinesisSchemaVersion": "1.0",
+        "sequenceNumber": "6f0d183a-a6a8-49f3-b244-01d7c7edf94f"
+      },
+      "eventSource": "aws:kinesis",
+      "eventID": "shardId-000000000000:49545115243490985018280067714973144582180062593244200961",
+      "invokeIdentityArn": "arn:aws:iam::EXAMPLE",
+      "eventVersion": "1.0",
+      "eventName": "aws:kinesis:record",
+      "eventSourceARN": "arn:aws:kinesis:EXAMPLE",
+      "awsRegion": "us-east-1"
+    },
+    {
+      "kinesis": {
+        "data": "eyJpZCI6ImE0Mzc5NmQwLTE0OTItMTFlYy1hMGIyLWM3OGZmYmQ2OTM0NyIsInBhcnRpdGlvbktleSI6Ijk2ZTRkMzM2LTQ2NjctNDRlYS1hOGU0LThlMjJiZTJhNjUyNSIsInRpbWVzdGFtcCI6MTYzMTUzODA1OTQ1MywidHlwZSI6ImJvb2tpbmdfY29tcGxldGVkIiwiYm9va2luZ19jb21wbGV0ZWQiOnsidGltZXN0YW1wIjoxNjMxNTM4MDU5NDUyLCJwcm9kdWN0X3Byb3ZpZGVyIjoiQmFsZWFyaWEiLCJvcmRlcklkIjoxMjM0NTd9fQ==",
+        "partitionKey": "96e4d336-4667-44ea-a8e4-8e22be2a6525",
+        "approximateArrivalTimestamp": 1631538059453,
+        "kinesisSchemaVersion": "1.0",
+        "sequenceNumber": "96e4d336-4667-44ea-a8e4-8e22be2a6525"
+      },
+      "eventSource": "aws:kinesis",
+      "eventID": "shardId-000000000000:49545115243490985018280067714973144582180062593244200961",
+      "invokeIdentityArn": "arn:aws:iam::EXAMPLE",
+      "eventVersion": "1.0",
+      "eventName": "aws:kinesis:record",
+      "eventSourceARN": "arn:aws:kinesis:EXAMPLE",
+      "awsRegion": "us-east-1"
+    },
+    {
+      "kinesis": {
+        "data": "eyJpZCI6ImE0MzgzMzEwLTE0OTItMTFlYy1hMGIyLWM3OGZmYmQ2OTM0NyIsInBhcnRpdGlvbktleSI6Ijc5MjdkYzdmLTI0NDMtNDIyZS1hYzBjLTg2ZWEyNWEwNzgwZiIsInRpbWVzdGFtcCI6MTYzMTUzODA1OTQ1NywidHlwZSI6ImJvb2tpbmdfcmVxdWVzdGVkIiwiYm9va2luZ19yZXF1ZXN0ZWQiOnsidGltZXN0YW1wIjoxNjMxNTM4MDU5NDU2LCJvcmRlcklkIjoxMDAwMywicHJvZHVjdF9wcm92aWRlciI6IkRGRFMifX0=",
+        "partitionKey": "7927dc7f-2443-422e-ac0c-86ea25a0780f",
+        "approximateArrivalTimestamp": 1631538059457,
+        "kinesisSchemaVersion": "1.0",
+        "sequenceNumber": "7927dc7f-2443-422e-ac0c-86ea25a0780f"
+      },
+      "eventSource": "aws:kinesis",
+      "eventID": "shardId-000000000000:49545115243490985018280067714973144582180062593244200961",
+      "invokeIdentityArn": "arn:aws:iam::EXAMPLE",
+      "eventVersion": "1.0",
+      "eventName": "aws:kinesis:record",
+      "eventSourceARN": "arn:aws:kinesis:EXAMPLE",
+      "awsRegion": "us-east-1"
+    },
+    {
+      "kinesis": {
+        "data": "eyJpZCI6ImE0MzgzMzEyLTE0OTItMTFlYy1hMGIyLWM3OGZmYmQ2OTM0NyIsInBhcnRpdGlvbktleSI6IjhhNDUzYTNhLTQ2MGYtNGI4YS1hYjJmLTIxZGM1NDc1NGI2ZSIsInRpbWVzdGFtcCI6MTYzMTUzODA1OTQ1NywidHlwZSI6ImJvb2tpbmdfcmVxdWVzdGVkIiwiYm9va2luZ19yZXF1ZXN0ZWQiOnsidGltZXN0YW1wIjoxNjMxNTM4MDU5NDU3LCJvcmRlcklkIjoxMDAwNSwicHJvZHVjdF9wcm92aWRlciI6IkRGRFMifX0=",
+        "partitionKey": "8a453a3a-460f-4b8a-ab2f-21dc54754b6e",
+        "approximateArrivalTimestamp": 1631538059457,
+        "kinesisSchemaVersion": "1.0",
+        "sequenceNumber": "8a453a3a-460f-4b8a-ab2f-21dc54754b6e"
+      },
+      "eventSource": "aws:kinesis",
+      "eventID": "shardId-000000000000:49545115243490985018280067714973144582180062593244200961",
+      "invokeIdentityArn": "arn:aws:iam::EXAMPLE",
+      "eventVersion": "1.0",
+      "eventName": "aws:kinesis:record",
+      "eventSourceARN": "arn:aws:kinesis:EXAMPLE",
+      "awsRegion": "us-east-1"
+    },
+    {
+      "kinesis": {
+        "data": "eyJpZCI6ImE0MzgwYzAzLTE0OTItMTFlYy1hMGIyLWM3OGZmYmQ2OTM0NyIsInBhcnRpdGlvbktleSI6IjgxYjJkNDUzLWVlMDctNDAyNS1hYTkwLWNhNjU4NGU4ODVhOSIsInRpbWVzdGFtcCI6MTYzMTUzODA1OTQ1NiwidHlwZSI6ImJvb2tpbmdfY29tcGxldGVkIiwiYm9va2luZ19jb21wbGV0ZWQiOnsidGltZXN0YW1wIjoxNjMxNTM4MDU5NDU2LCJwcm9kdWN0X3Byb3ZpZGVyIjoiREZEUyIsIm9yZGVySWQiOjEyMzQ3OX19",
+        "partitionKey": "81b2d453-ee07-4025-aa90-ca6584e885a9",
+        "approximateArrivalTimestamp": 1631538059456,
+        "kinesisSchemaVersion": "1.0",
+        "sequenceNumber": "81b2d453-ee07-4025-aa90-ca6584e885a9"
+      },
+      "eventSource": "aws:kinesis",
+      "eventID": "shardId-000000000000:49545115243490985018280067714973144582180062593244200961",
+      "invokeIdentityArn": "arn:aws:iam::EXAMPLE",
+      "eventVersion": "1.0",
+      "eventName": "aws:kinesis:record",
+      "eventSourceARN": "arn:aws:kinesis:EXAMPLE",
+      "awsRegion": "us-east-1"
+    },
+    {
+      "kinesis": {
+        "data": "eyJpZCI6ImE0Mzc5NmQ3LTE0OTItMTFlYy1hMGIyLWM3OGZmYmQ2OTM0NyIsInBhcnRpdGlvbktleSI6IjFlYmI2ZTY3LWMxZGYtNDIzMy05YTZhLTFjNGI3Mjc4ZDA0MSIsInRpbWVzdGFtcCI6MTYzMTUzODA1OTQ1MywidHlwZSI6ImJvb2tpbmdfY29tcGxldGVkIiwiYm9va2luZ19jb21wbGV0ZWQiOnsidGltZXN0YW1wIjoxNjMxNTM4MDU5NDUzLCJwcm9kdWN0X3Byb3ZpZGVyIjoiQmFsZWFyaWEiLCJvcmRlcklkIjoxMjM0NjR9fQ==",
+        "partitionKey": "1ebb6e67-c1df-4233-9a6a-1c4b7278d041",
+        "approximateArrivalTimestamp": 1631538059453,
+        "kinesisSchemaVersion": "1.0",
+        "sequenceNumber": "1ebb6e67-c1df-4233-9a6a-1c4b7278d041"
+      },
+      "eventSource": "aws:kinesis",
+      "eventID": "shardId-000000000000:49545115243490985018280067714973144582180062593244200961",
+      "invokeIdentityArn": "arn:aws:iam::EXAMPLE",
+      "eventVersion": "1.0",
+      "eventName": "aws:kinesis:record",
+      "eventSourceARN": "arn:aws:kinesis:EXAMPLE",
+      "awsRegion": "us-east-1"
+    },
+    {
+      "kinesis": {
+        "data": "eyJpZCI6ImE0Mzg1YTIxLTE0OTItMTFlYy1hMGIyLWM3OGZmYmQ2OTM0NyIsInBhcnRpdGlvbktleSI6ImY1YmE3ZDAwLTVlZmEtNGUwYy04ODI4LTZkOTM4YWE4OWIyMiIsInRpbWVzdGFtcCI6MTYzMTUzODA1OTQ1OCwidHlwZSI6ImJvb2tpbmdfcmVxdWVzdGVkIiwiYm9va2luZ19yZXF1ZXN0ZWQiOnsidGltZXN0YW1wIjoxNjMxNTM4MDU5NDU4LCJvcmRlcklkIjoxMDAxMSwicHJvZHVjdF9wcm92aWRlciI6IlAmTyBGZXJyaWVzIn19",
+        "partitionKey": "f5ba7d00-5efa-4e0c-8828-6d938aa89b22",
+        "approximateArrivalTimestamp": 1631538059458,
+        "kinesisSchemaVersion": "1.0",
+        "sequenceNumber": "f5ba7d00-5efa-4e0c-8828-6d938aa89b22"
+      },
+      "eventSource": "aws:kinesis",
+      "eventID": "shardId-000000000000:49545115243490985018280067714973144582180062593244200961",
+      "invokeIdentityArn": "arn:aws:iam::EXAMPLE",
+      "eventVersion": "1.0",
+      "eventName": "aws:kinesis:record",
+      "eventSourceARN": "arn:aws:kinesis:EXAMPLE",
+      "awsRegion": "us-east-1"
+    },
+    {
+      "kinesis": {
+        "data": "eyJpZCI6ImE0MzdlNGY0LTE0OTItMTFlYy1hMGIyLWM3OGZmYmQ2OTM0NyIsInBhcnRpdGlvbktleSI6IjNkODkzNzNkLTFhZmYtNDY3NS04M2Q4LTNlY2YwMDI1Y2EzZiIsInRpbWVzdGFtcCI6MTYzMTUzODA1OTQ1NSwidHlwZSI6ImJvb2tpbmdfY29tcGxldGVkIiwiYm9va2luZ19jb21wbGV0ZWQiOnsidGltZXN0YW1wIjoxNjMxNTM4MDU5NDU1LCJwcm9kdWN0X3Byb3ZpZGVyIjoiREZEUyIsIm9yZGVySWQiOjEyMzQ3NH19",
+        "partitionKey": "3d89373d-1aff-4675-83d8-3ecf0025ca3f",
+        "approximateArrivalTimestamp": 1631538059455,
+        "kinesisSchemaVersion": "1.0",
+        "sequenceNumber": "3d89373d-1aff-4675-83d8-3ecf0025ca3f"
+      },
+      "eventSource": "aws:kinesis",
+      "eventID": "shardId-000000000000:49545115243490985018280067714973144582180062593244200961",
+      "invokeIdentityArn": "arn:aws:iam::EXAMPLE",
+      "eventVersion": "1.0",
+      "eventName": "aws:kinesis:record",
+      "eventSourceARN": "arn:aws:kinesis:EXAMPLE",
+      "awsRegion": "us-east-1"
+    },
+    {
+      "kinesis": {
+        "data": "eyJpZCI6ImE0MzdlNGYwLTE0OTItMTFlYy1hMGIyLWM3OGZmYmQ2OTM0NyIsInBhcnRpdGlvbktleSI6ImZlYzIzOWZlLTNlNTQtNDM3Yi1hNDYxLWVjZTVlNDEyMzgyOSIsInRpbWVzdGFtcCI6MTYzMTUzODA1OTQ1NSwidHlwZSI6ImJvb2tpbmdfY29tcGxldGVkIiwiYm9va2luZ19jb21wbGV0ZWQiOnsidGltZXN0YW1wIjoxNjMxNTM4MDU5NDU0LCJwcm9kdWN0X3Byb3ZpZGVyIjoiSXJpc2ggRmVycmllcyIsIm9yZGVySWQiOjEyMzQ3MH19",
+        "partitionKey": "fec239fe-3e54-437b-a461-ece5e4123829",
+        "approximateArrivalTimestamp": 1631538059455,
+        "kinesisSchemaVersion": "1.0",
+        "sequenceNumber": "fec239fe-3e54-437b-a461-ece5e4123829"
+      },
+      "eventSource": "aws:kinesis",
+      "eventID": "shardId-000000000000:49545115243490985018280067714973144582180062593244200961",
+      "invokeIdentityArn": "arn:aws:iam::EXAMPLE",
+      "eventVersion": "1.0",
+      "eventName": "aws:kinesis:record",
+      "eventSourceARN": "arn:aws:kinesis:EXAMPLE",
+      "awsRegion": "us-east-1"
+    },
+    {
+      "kinesis": {
+        "data": "eyJpZCI6ImE0MzgwYzAyLTE0OTItMTFlYy1hMGIyLWM3OGZmYmQ2OTM0NyIsInBhcnRpdGlvbktleSI6ImRhZDNiODMwLTAyOWQtNGZlMy1iMDJkLTc1MDFjOTc4NzYwOCIsInRpbWVzdGFtcCI6MTYzMTUzODA1OTQ1NiwidHlwZSI6ImJvb2tpbmdfY29tcGxldGVkIiwiYm9va2luZ19jb21wbGV0ZWQiOnsidGltZXN0YW1wIjoxNjMxNTM4MDU5NDU2LCJwcm9kdWN0X3Byb3ZpZGVyIjoiQnJpdHRhbnkgRmVycmllcyIsIm9yZGVySWQiOjEyMzQ3OH19",
+        "partitionKey": "dad3b830-029d-4fe3-b02d-7501c9787608",
+        "approximateArrivalTimestamp": 1631538059456,
+        "kinesisSchemaVersion": "1.0",
+        "sequenceNumber": "dad3b830-029d-4fe3-b02d-7501c9787608"
+      },
+      "eventSource": "aws:kinesis",
+      "eventID": "shardId-000000000000:49545115243490985018280067714973144582180062593244200961",
+      "invokeIdentityArn": "arn:aws:iam::EXAMPLE",
+      "eventVersion": "1.0",
+      "eventName": "aws:kinesis:record",
+      "eventSourceARN": "arn:aws:kinesis:EXAMPLE",
+      "awsRegion": "us-east-1"
+    },
+    {
+      "kinesis": {
+        "data": "eyJpZCI6ImE0Mzg4MTMyLTE0OTItMTFlYy1hMGIyLWM3OGZmYmQ2OTM0NyIsInBhcnRpdGlvbktleSI6IjJmY2U1M2YxLTFkYWYtNDI0Ny05MjQ1LTBhZDc4ZDBiMGQyZSIsInRpbWVzdGFtcCI6MTYzMTUzODA1OTQ1OSwidHlwZSI6ImJvb2tpbmdfcmVxdWVzdGVkIiwiYm9va2luZ19yZXF1ZXN0ZWQiOnsidGltZXN0YW1wIjoxNjMxNTM4MDU5NDU5LCJvcmRlcklkIjoxMDAxNywicHJvZHVjdF9wcm92aWRlciI6IlN0ZW5hIExpbmUifX0=",
+        "partitionKey": "2fce53f1-1daf-4247-9245-0ad78d0b0d2e",
+        "approximateArrivalTimestamp": 1631538059459,
+        "kinesisSchemaVersion": "1.0",
+        "sequenceNumber": "2fce53f1-1daf-4247-9245-0ad78d0b0d2e"
+      },
+      "eventSource": "aws:kinesis",
+      "eventID": "shardId-000000000000:49545115243490985018280067714973144582180062593244200961",
+      "invokeIdentityArn": "arn:aws:iam::EXAMPLE",
+      "eventVersion": "1.0",
+      "eventName": "aws:kinesis:record",
+      "eventSourceARN": "arn:aws:kinesis:EXAMPLE",
+      "awsRegion": "us-east-1"
+    }
+  ]
+}
