@@ -2,7 +2,7 @@
 
 ## Objective
 
-AFerry is building a cloud native system to support bookings. When a booking is made, it is published to an event stream. There is an external system that needs to be notified about new bookings, and exposes a RESTful endpoint to receive booking events.
+building a cloud-native system to support bookings. When a booking is made, it is published to an event stream. There is an external system that needs to be notified about new bookings and exposes a RESTful endpoint to receive booking events.
 
 Your assignment is to implement a function that is subscribed to these events and publishes `booking_completed` events to the external system.
 
