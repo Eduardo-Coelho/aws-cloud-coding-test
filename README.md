@@ -6,11 +6,6 @@ building a cloud-native system to support bookings. When a booking is made, it i
 
 Your assignment is to implement a function that is subscribed to these events and publishes `booking_completed` events to the external system.
 
-## Submitting
-
-- Clone the repo into the platform of your choice - you will only have read permissions on this repo
-- Create a pull request for your changes against your own repo
-
 ## Brief
 
 You will implement the function that is subscribed to the event stream. The event stream contains events of different types, your function should publish `booking_completed` events to the external system.
